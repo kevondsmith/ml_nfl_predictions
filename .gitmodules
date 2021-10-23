@@ -1,0 +1,3 @@
+[submodule "nfl_data_py"]
+	path = nfl_data_py
+	url = https://github.com/cooperdff/nfl_data_py.git
