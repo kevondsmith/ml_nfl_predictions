@@ -17,4 +17,5 @@ categories = ['season', 'season_type', 'completions',
 
 df = data[['player_name'] + categories]
 
-df.to_csv('./data/seasonal_data/2020-2021_games_seasonal.csv')
+df.to_csv('./data/seasonal_data/2020-2021_games_seasonal.csv'
+)
